@@ -22,7 +22,8 @@ The "Stairway to Heaven" environment features:
   - -0.1 for hitting lava
   - -0.01 for other transitions
 
-![Stairway to Heaven Environment Visualization](images/Stairway to heaven .png)*
+![Stairway to Heaven Environment Visualization](images/stairway_to_heaven.png)
+
 ## 🧠 Implemented Algorithms
 1. **Dynamic Programming**:
    - Policy Iteration (PI)
